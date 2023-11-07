@@ -5,6 +5,8 @@
 
 * The lending data provided a CSB containing more than 34,000 organizations that have received funding from Alphabet Soup over the years.  Within the dataset we can see:  EIN and Name, Application_Type, Afffiliation, Classification, Use_Case, Organization, Status, Income_Amt, Special_Considerations, Ask_Amt, Is_Successful.
 
+  Removed EIN and Name because they are neither target nor features.
+
 * Objective of analysis was to predict which ventures will have the best chance of success in their venture.
 
 * The stages of machine learning process
